@@ -53,8 +53,8 @@
       "name": "Contact us",
       "type": "url",
       "icon": "http://lodeston.app.com.tc/app1/assets/contact.png",
-      "url": "http://lodeston.app.com.tc/app1/contact2/",
-      "url_dark": "http://lodeston.app.com.tc/app1/contact2/"
+      "url": "http://lodeston.app.com.tc/app1/contact-us/",
+      "url_dark": "http://lodeston.app.com.tc/app1/contact-us/"
     },
     {
       "name": "Privacy Policy",
