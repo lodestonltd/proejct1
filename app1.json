@@ -47,19 +47,19 @@
       "type": "url",
       "icon": "http://lodeston.app.com.tc/app1/assets/home.png",
       "url": "http://lodeston.app.com.tc/app1/",
-      "url_dark": "https://www.solodroid.net/demo/webdroid/pages/dashboard_dark.html"
+      "url_dark": "http://lodeston.app.com.tc/app1/"
     },
     {
       "name": "Contact us",
       "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/contact.png",
-      "url": "https://www.solodroid.net/demo/webdroid/pages/contact.html",
-      "url_dark": "https://www.solodroid.net/demo/webdroid/pages/contact_dark.html"
+      "icon": "http://lodeston.app.com.tc/app1/assets/contact.png",
+      "url": "http://lodeston.app.com.tc/app1/contact.html",
+      "url_dark": "http://lodeston.app.com.tc/app1/contact.html"
     },
     {
       "name": "Privacy Policy",
       "type": "assets",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/privacy-policy.png",
+      "icon": "http://lodeston.app.com.tc/app1/assets/privacy.png",
       "url": "privacy_policy.html",
       "url_dark": "privacy_policy_dark.html"
     }
